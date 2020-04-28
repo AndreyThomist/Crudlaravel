@@ -1,0 +1,14 @@
+.navbar {
+    box-shadow: 1px 1px 3px grey;
+    padding:0.8rem;
+}
+.ativo{
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    color: black !important;
+}
+
+.card{
+    border: 1px 1px 3px grey !important;
+}
